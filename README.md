@@ -5,7 +5,9 @@
   
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **GitHub**
+- 👯 I’m looking to collaborate on **GitHub**   <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwajit-2810&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajit-2810" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 
 - 💬 Ask me about **Web Development**
 
@@ -15,17 +17,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohag142" alt="sohag142" /></a> </p>
 
 
-<h1 align="center">Hi 👋, I'm Bishwajit Chakraborty</h1>
-<h3 align="center">A passionate learner from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwajit-2810&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajit-2810" /> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-<p align="left"> <a href="https://twitter.com/bishwajit_2810" target="blank"><img src="https://img.shields.io/twitter/follow/bishwajit_2810?logo=twitter&style=for-the-badge" alt="bishwajit_2810" /></a> </p>
-
-- 🌱 I’m currently learning **DSA, Flutter and NodeJs**
-
-- 📫 How to reach me **bishwajit2810@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
