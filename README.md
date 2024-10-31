@@ -25,7 +25,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohag142" alt="sohag142" /></a> </p>
 
 
-<p style = color🟦;background-color🧮><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohag142&show_icons=true&locale=en&layout=compact" alt="sohag142" /></p>
+<p style = color🟦;background-color🎱><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohag142&show_icons=true&locale=en&layout=compact" alt="sohag142" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohag142&show_icons=true&locale=en" alt="sohag142" /></p>
 
