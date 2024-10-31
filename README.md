@@ -2,10 +2,11 @@
 #### Web Developer
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Web Development                            ![Web Developer](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
+- 🌱 I’m currently learning Web Development                            
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: sohag2879@gmail.com 
+- 📫 How to reach me: sohag2879@gmail.com
+![Web Developer](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 
 Skills:   JS / HTML / CSS/PYTHON/MY SQL
 
