@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Sohag Ali
-#### Web Developer
-
+<h1 align="center">Hi 👋, I'm Sohag</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Development                            
 - 👯 I’m looking to collaborate on GitHub 
@@ -15,10 +14,6 @@ Skills:   JS / HTML / CSS/PYTHON/MY SQL
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: sohag2879@gmail.com 
-
-
-<h1 align="center">Hi 👋, I'm Sohag</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohag142" alt="sohag142" /></a> </p>
 
