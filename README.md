@@ -1,8 +1,11 @@
 ### Hi there 👋, I'm Sohag Ali
 #### Web Developer
-![Web Developer](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Web Development                           ![Web Developer](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: sohag2879@gmail.com 
 
 Skills:   JS / HTML / CSS/PYTHON/MY SQL
 
