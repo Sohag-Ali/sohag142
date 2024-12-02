@@ -29,8 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohag142&show_icons=true&locale=en" alt="sohag142" /></p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohag142&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohag142&" alt="GitHub Streak Stats" />
 </p>
+
 
 
 
