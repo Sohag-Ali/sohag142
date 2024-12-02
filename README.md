@@ -24,34 +24,15 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohag142" alt="sohag142" /></a> </p>
 
 
-<p style = color🟦;background-color🎱><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohag142&show_icons=true&locale=en&layout=compact" alt="sohag142" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohag142&show_icons=true&locale=en" alt="sohag142" /></p>
-
-<p style = color🟦;background-color🎱><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sohag142&" alt="sohag142" /></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-
-
-
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
