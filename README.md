@@ -29,7 +29,7 @@
 
 <p style = color🟦;background-color🎱><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sohag142&" alt="sohag142" /></p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 
 
