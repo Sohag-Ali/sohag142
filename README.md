@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **sohag2879@gmail.com**
+- 📫 How to reach me **sohag2879@gmail.com** and **ali22205101426@diu.edu.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
