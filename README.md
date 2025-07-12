@@ -14,7 +14,7 @@
 <!-- About Section with Cards -->
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0xemNwYW83ODZjNzVmbzVuazNpeXN1ZGlsc2V3NWFjYnVidWJ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vWpgk8ufHggpCtac8l/giphy.gif" width="30"> About Me
 
-<img align="right" height="270" width=100% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
+<img align="right" height="270" width=50% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
 ```yaml
 name: Md Sohag Ali
