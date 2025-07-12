@@ -14,7 +14,7 @@
 <!-- About Section with Cards -->
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0xemNwYW83ODZjNzVmbzVuazNpeXN1ZGlsc2V3NWFjYnVidWJ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vWpgk8ufHggpCtac8l/giphy.gif" width="30"> About Me
 
-<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
+<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
 ```yaml
 name: Md Sohag Ali
@@ -51,13 +51,13 @@ currently_learning:
 <div align="center">
 
 ### 🎨 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma,Pixso&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,pixso&theme=dark" />
 
 ### ⚙️ **Backend Development**
 <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
 
 ### 🛠️ **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 ### 📱 **Languages**
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
@@ -117,11 +117,11 @@ currently_learning:
 <div align="center">
 
 <!-- Social Media Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/mdrijoanmaruf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/sohag142)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/md.rijoanmaruf)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/rijoanmaruf/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/rijianmaruf)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://fb.com/https://www.facebook.com/sohag.sarkar.2879?mibextid=zbwkwl" target="blank)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/https://instagram.com/sohag__sarkar_?igshid=mznlngnkzwq4mg==" target="blank)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/rijianmaruf) -->
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+8801728918054)
 
 <!-- Contact Animation -->
