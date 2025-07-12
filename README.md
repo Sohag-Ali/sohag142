@@ -14,7 +14,7 @@
 <!-- About Section with Cards -->
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0xemNwYW83ODZjNzVmbzVuazNpeXN1ZGlsc2V3NWFjYnVidWJ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vWpgk8ufHggpCtac8l/giphy.gif" width="30"> About Me
 
-<img align="right" height="370" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
+<img align="right" height="270" width=100% src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
 ```yaml
 name: Md Sohag Ali
@@ -117,13 +117,50 @@ currently_learning:
 <div align="center">
 
 <!-- Social Media Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sohag-ali-7b1061284)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/sohag-ali-7b1061284)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/sohag142)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/share/1AvrG2DC7b/ )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/sohag___s?igsh=NzZzYXI3Znl1dmRq)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/rijianmaruf) -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/sohag) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohag2879@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+8801728918054)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+8801728918054) -->
+<div align="center">
+
+  <!-- Social Media Badges -->
+  <a href="https://www.linkedin.com/in/sohag-ali-7b1061284" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+
+  <a href="https://github.com/sohag142" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+
+  <a href="https://www.facebook.com/share/1AvrG2DC7b/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
+  </a>
+
+  <a href="https://www.instagram.com/sohag___s?igsh=NzZzYXI3Znl1dmRq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+  </a>
+
+  <!-- <a href="https://x.com/rijianmaruf" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+  </a> -->
+
+  <a href="mailto:sohag2879@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/+8801728918054" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
+  </a>
+
+  <!-- Contact Animation -->
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
+
+</div>
+
 
 <!-- Contact Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
