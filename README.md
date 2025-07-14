@@ -18,7 +18,7 @@
 
 ```yaml
 name: Md Sohag Ali
-located_in: Dhaka, Bangladesh
+located_in: Uttara, Dhaka, Bangladesh
 current_work: Fornt-End Developer
 education: 
   - "Computer Science & Engineering at DIU"
@@ -72,14 +72,14 @@ currently_learning:
 <div align="center">
 
 <!-- Main stats row -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=sohag142&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag142&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Sohag-Ali&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohag-Ali&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
 
 <!-- Streak stats -->
-<img src="https://streak-stats.demolab.com/?user=sohag142&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=Sohag-Ali&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag142&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohag-Ali&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -89,7 +89,7 @@ currently_learning:
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sohag142&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sohag-Ali&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 
@@ -99,13 +99,13 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohag142&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohag-Ali&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohag142&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohag142&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sohag-Ali&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sohag-Ali&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohag142&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohag142&theme=github_dark&utcOffset=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sohag-Ali&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sohag-Ali&theme=github_dark&utcOffset=6" />
 
 </div>
 
@@ -131,7 +131,7 @@ currently_learning:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
 
-  <a href="https://github.com/sohag142" target="_blank">
+  <a href="https://github.com/Sohag-Ali" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
 
@@ -199,9 +199,9 @@ interface Developer {
 <div align="center">
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=sohag142&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sohag142?label=Followers&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/sohag142?label=Total%20Stars&style=for-the-badge&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=Sohag-Ali&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Sohag-Ali?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/Sohag-Ali?label=Total%20Stars&style=for-the-badge&color=yellow" />
 
 <!-- Recent Activity -->
 ### 📊 **Recent Activity**
